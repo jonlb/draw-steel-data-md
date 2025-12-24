@@ -8,6 +8,10 @@ type: index
 | File Name                                                             | Subclass | Cost | Level | Feature Type | Action Type | Distance | Target |
 | --------------------------------------------------------------------- | -------- | ---- | ----- | ------------ | ----------- | -------- | ------ |
 | [Density Augmentation](../Density%20Augmentation)                     |          |      | 1     | trait        | feature     |          |        |
+| [Discipline In Combat](../Discipline%20In%20Combat)                   |          |      | 1     | trait        | feature     |          |        |
+| [Chronokinetic Discipline Mastery](../Chronokinetic%20Discipline%20Mastery) |          |      | 1     | trait        | feature     |          |        |
+| [Cryokinetic Discipline Mastery](../Cryokinetic%20Discipline%20Mastery)     |          |      | 1     | trait        | feature     |          |        |
+| [Metakinetic Discipline Mastery](../Metakinetic%20Discipline%20Mastery)     |          |      | 1     | trait        | feature     |          |        |
 | [Discipline Outside of Combat](../Discipline%20Outside%20of%20Combat) |          |      | 1     | trait        | feature     |          |        |
 | [Force Augmentation](../Force%20Augmentation)                         |          |      | 1     | trait        | feature     |          |        |
 | [Inertial Shield](../Inertial%20Shield)                               |          |      | 1     | trait        | feature     |          |        |

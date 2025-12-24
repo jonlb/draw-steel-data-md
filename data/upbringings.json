@@ -1,0 +1,144 @@
+[
+  {
+    "item_id": "academic",
+    "item_name": "Academic",
+    "item_index": "06",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Upbringing",
+    "description": "Your hero was raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an academic culture learn how to wield the power that is knowledge.",
+    "skill_options": {
+      "description": "One skill from the lore skill group.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "lore"
+          ],
+          "type": "from"
+        }
+      },
+      "quick_build": "History"
+    }
+  },
+  {
+    "item_id": "creative",
+    "item_name": "Creative",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Upbringing",
+    "description": "A hero with a creative upbringing was raised among folk who create art or other works valuable enough to trade. A creative culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.",
+    "skill_options": {
+      "description": "The Music or Perform skill (from the interpersonal skill group), or one skill from the crafting group.",
+      "choice": {
+        "number": 1,
+        "options": [
+          {
+            "type": "specific",
+            "names": [
+              "Music",
+              "Perform"
+            ]
+          },
+          {
+            "type": "from_group",
+            "group": "crafting"
+          }
+        ]
+      },
+      "quick_build": "Perform"
+    }
+  },
+  {
+    "item_id": "labor",
+    "item_name": "Labor",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Upbringing",
+    "description": "Your hero came of age in a culture where people labored for a living. They might have been cultivators, typically raising crops or livestock on a farm. They might have harvested natural resources, whether by hunting, trapping, logging, or mining. Or they might have excelled at manual labor tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a labor upbringing know the value of hard work.",
+    "skill_options": {
+      "description": "The Blacksmithing skill (from the crafting skill group), the Handle Animals skill (from the interpersonal group), or a skill from the exploration group.",
+      "choice": {
+        "number": 1,
+        "options": [
+          {
+            "type": "specific",
+            "names": [
+              "Blacksmithing",
+              "Handle Animals"
+            ]
+          },
+          {
+            "type": "from_group",
+            "group": "exploration"
+          }
+        ]
+      },
+      "quick_build": "Lift"
+    }
+  },
+  {
+    "item_id": "lawless",
+    "item_name": "Lawless",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Upbringing",
+    "description": "Your hero grew up among folk who performed activities that other people—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. And under tyranny, people engaged in rebellion are often considered lawless in their actions and activities. People brought up in a lawless culture typically don't mind breaking the rules when it suits them—and are good at making sure no one finds out they did.",
+    "skill_options": {
+      "description": "One skill from the intrigue skill group.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "intrigue"
+          ],
+          "type": "from"
+        }
+      },
+      "quick_build": "Sneak"
+    }
+  },
+  {
+    "item_id": "martial",
+    "item_name": "Martial",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Upbringing",
+    "description": "A hero with a martial upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.",
+    "skill_options": {
+      "description": "One of the following: Blacksmithing or Fletching from the crafting skill group; Climb, Endurance, or Ride from the exploration group; Intimidate from the interpersonal group; Alertness or Track from the intrigue group; or Monsters or Strategy from the lore skill group",
+      "choice": {
+        "number": 1,
+        "specific_skills": [
+          "Fletching",
+          "Intimidate",
+          "Ride",
+          "Strategy",
+          "Track"
+        ],
+        "type": "specific_list"
+      },
+      "quick_build": "Intimidate"
+    }
+  },
+  {
+    "item_id": "noble",
+    "item_name": "Noble",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Upbringing",
+    "description": "Your hero grew up among leaders who rule over others and play the games of politics to maintain power. Many families are nobles by birthright, but some cultures have noble titles earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.",
+    "skill_options": {
+      "description": "One skill from the interpersonal skill group.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "interpersonal"
+          ],
+          "type": "from"
+        }
+      },
+      "quick_build": "Lead"
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "item_id": "nomadic",
+    "item_name": "Nomadic",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Environment",
+    "description": "A nomadic culture travels from place to place to survive. Members of a nomadic culture might follow animal migrations or the weather, travel to sell their wares or services, or simply enjoy a restless lifestyle full of new experiences and peoples. Those who grow up in nomadic cultures learn to navigate the wilderness and work closely with others to survive.",
+    "skill_options": {
+      "description": "One skill from the exploration or interpersonal skill groups.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "exploration",
+            "interpersonal"
+          ],
+          "type": "or"
+        }
+      },
+      "quick_build": "Navigate"
+    }
+  },
+  {
+    "item_id": "rural",
+    "item_name": "Rural",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Environment",
+    "description": "A rural culture is one located in a town, village, or smaller settled enclave. People dwelling in such places often cultivate the land, trade goods or services with travelers passing through, harvest fish from the sea, or mine metals and gems from the earth.\n\nLiving among a small population, most folks in a rural community learn a trade and are handed down bits of essential knowledge to help their community survive. For example, when a rural culture has only one blacksmith, it's important to have an apprentice already learning at the anvil well before that smith starts to get old. If the only priest in town\n\ngets the sniffles, folks want an acolyte ready to wear the fancy robes should the worst occur.",
+    "skill_options": {
+      "description": "One skill from the crafting or lore skill groups.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "crafting",
+            "lore"
+          ],
+          "type": "or"
+        }
+      },
+      "quick_build": "Nature"
+    }
+  },
+  {
+    "item_id": "secluded",
+    "item_name": "Secluded",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Environment",
+    "description": "A secluded culture is based in one relatively close-quarters structure—a building, a cavern, and so forth—and interacts with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons. Folk in a secluded culture have little or no reason to leave their home or interact with other cultures on the outside, but might have an awareness of those cultures and of events happening beyond their enclave.\n\nWhen people live together in close quarters, they typically learn to get along. They often spend much time in study or introspection, as there is not much else to do in seclusion.",
+    "skill_options": {
+      "description": "One skill from the interpersonal or lore skill groups.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "interpersonal",
+            "lore"
+          ],
+          "type": "or"
+        }
+      },
+      "quick_build": "Read Person"
+    }
+  },
+  {
+    "item_id": "urban",
+    "item_name": "Urban",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Environment",
+    "description": "An urban culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of urban cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.",
+    "skill_options": {
+      "description": "One skill from the interpersonal or intrigue skill groups.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "interpersonal",
+            "intrigue"
+          ],
+          "type": "or"
+        }
+      },
+      "quick_build": "Alertness"
+    }
+  },
+  {
+    "item_id": "wilderness",
+    "item_name": "Wilderness",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "culture_benefit_type": "Environment",
+    "description": "A wilderness culture doesn't try to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land. A wilderness culture might be a circle of druids protecting a remote wode, a band of brigands hiding out in desert caves, or a camp of orc mercenaries who call the trackless mountains home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.",
+    "skill_options": {
+      "description": "One skill from the crafting or exploration skill groups.",
+      "choice": {
+        "number": 1,
+        "group": {
+          "names": [
+            "crafting",
+            "exploration"
+          ],
+          "type": "or"
+        }
+      },
+      "quick_build": "Endurance"
+    }
+  }
+]

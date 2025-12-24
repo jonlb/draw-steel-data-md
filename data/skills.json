@@ -1,0 +1,290 @@
+[
+  {
+    "item_id": "crafting-skills",
+    "item_name": "Crafting Skills",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "type": "skill",
+    "description": "Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.\n\nRewards for tests made with crafting skills typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.\n\nConsequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).",
+    "typical_rewards": "having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.",
+    "typical_consequences": "wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).",
+    "skills": [
+      {
+        "name": "Alchemy",
+        "use": "Make bombs and potions"
+      },
+      {
+        "name": "Architecture",
+        "use": "Create buildings and vehicles"
+      },
+      {
+        "name": "Blacksmithing",
+        "use": "Forge metal armor and weapons"
+      },
+      {
+        "name": "Carpentry",
+        "use": "Create items out of wood"
+      },
+      {
+        "name": "Cooking",
+        "use": "Create delicious dishes"
+      },
+      {
+        "name": "Fletching",
+        "use": "Make ranged weapons and ammunition"
+      },
+      {
+        "name": "Forgery",
+        "use": "Create false badges, documents, and other items"
+      },
+      {
+        "name": "Jewelry",
+        "use": "Create bracelets, crowns, rings, and other jewelry"
+      },
+      {
+        "name": "Mechanics",
+        "use": "Build machines and clockwork items"
+      },
+      {
+        "name": "Tailoring",
+        "use": "Craft clothing of cloth or leather"
+      }
+    ]
+  },
+  {
+    "item_id": "exploration-skills",
+    "item_name": "Exploration Skills",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "type": "skill",
+    "description": "Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.\n\nRewards for tests made with exploration skills typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.\n\nConsequences for tests made with exploration skills include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.",
+    "typical_rewards": "helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.",
+    "typical_consequences": "harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.",
+    "skills": [
+      {
+        "name": "Climb",
+        "use": "Move up vertical surfaces"
+      },
+      {
+        "name": "Drive",
+        "use": "Control vehicles"
+      },
+      {
+        "name": "Endurance",
+        "use": "Remain engaged in strenuous activity over a long period of time"
+      },
+      {
+        "name": "Gymnastics",
+        "use": "Move across unsteady or narrow surfaces; tumble"
+      },
+      {
+        "name": "Heal",
+        "use": "Use mundane first aid"
+      },
+      {
+        "name": "Jump",
+        "use": "Leap vertical and horizontal distances"
+      },
+      {
+        "name": "Lift",
+        "use": "Pick up, carry, and throw heavy objects"
+      },
+      {
+        "name": "Navigate",
+        "use": "Read a map and travel without becoming lost"
+      },
+      {
+        "name": "Ride",
+        "use": "Ride and control a nonsapient mount, such as a horse"
+      },
+      {
+        "name": "Swim",
+        "use": "Move through deep liquid"
+      }
+    ]
+  },
+  {
+    "item_id": "interpersonal-skills",
+    "item_name": "Interpersonal Skills",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "type": "skill",
+    "description": "Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see Chapter 11). Aside from the Handle Animals skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.\n\nRewards for tests made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.\n\nConsequences for tests made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.",
+    "typical_rewards": "gaining an extra favor, item, or piece of information from the people or creatures you interact with.",
+    "typical_consequences": "making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.",
+    "skills": [
+      {
+        "name": "Brag",
+        "use": "Impress others with stories of your deeds"
+      },
+      {
+        "name": "Empathize",
+        "use": "Relate to someone on a personal level"
+      },
+      {
+        "name": "Flirt",
+        "use": "Attract romantic attention from someone"
+      },
+      {
+        "name": "Gamble",
+        "use": "Make bets with others"
+      },
+      {
+        "name": "Handle Animals",
+        "use": "Interact with nonsapient animal wildlife"
+      },
+      {
+        "name": "Interrogate",
+        "use": "Obtain information from a creature withholding it"
+      },
+      {
+        "name": "Intimidate",
+        "use": "Awe or scare a creature"
+      },
+      {
+        "name": "Lead",
+        "use": "Inspire people to action"
+      },
+      {
+        "name": "Lie",
+        "use": "Convince someone that a falsehood is true"
+      },
+      {
+        "name": "Music",
+        "use": "Perform music vocally or with an instrument"
+      },
+      {
+        "name": "Perform",
+        "use": "Engage in dance, oratory, acting, or some other physical performance"
+      },
+      {
+        "name": "Persuade",
+        "use": "Convince someone to agree with you through use of your charms and grace"
+      },
+      {
+        "name": "Read Person",
+        "use": "Read the emotions and body language of other creatures"
+      }
+    ]
+  },
+  {
+    "item_id": "intrigue-skills",
+    "item_name": "Intrigue Skills",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "type": "skill",
+    "description": "Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.\n\nRewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.\n\nConsequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.",
+    "typical_rewards": null,
+    "typical_consequences": "getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.",
+    "skills": [
+      {
+        "name": "Alertness",
+        "use": "Intuitively sense the details of your surroundings"
+      },
+      {
+        "name": "Conceal Object",
+        "use": "Hide an object on your person or in your environment"
+      },
+      {
+        "name": "Disguise",
+        "use": "Change your appearance to look like a different person"
+      },
+      {
+        "name": "Eavesdrop",
+        "use": "Actively listen to something that is hard to hear, such as a whispered conversation through a door"
+      },
+      {
+        "name": "Escape Artist",
+        "use": "Escape from bonds such as rope or manacles"
+      },
+      {
+        "name": "Hide",
+        "use": "Conceal yourself from others' observation"
+      },
+      {
+        "name": "Pick Lock",
+        "use": "Open a lock without using the key"
+      },
+      {
+        "name": "Pick Pocket",
+        "use": "Steal an item that another person wears or carries without them noticing"
+      },
+      {
+        "name": "Sabotage",
+        "use": "Disable a mechanical device such as a trap"
+      },
+      {
+        "name": "Search",
+        "use": "Actively search an environment for important details and items"
+      },
+      {
+        "name": "Sneak",
+        "use": "Move silently"
+      },
+      {
+        "name": "Track",
+        "use": "Follow a trail that another creature has left behind"
+      }
+    ]
+  },
+  {
+    "item_id": "lore-skills",
+    "item_name": "Lore Skills",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "type": "skill",
+    "description": "Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.\n\nRewards for tests made with lore skills typically include learning an extra piece of useful information.\n\nConsequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the Optional Rule: Secret Reactive Tests sidebar earlier in this chapter).",
+    "typical_rewards": "learning an extra piece of useful information.",
+    "typical_consequences": "learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the Optional Rule: Secret Reactive Tests sidebar earlier in this chapter).",
+    "skills": [
+      {
+        "name": "Criminal Underworld",
+        "use": "Knowing about criminal organizations, their crimes, their relationships, and their leaders"
+      },
+      {
+        "name": "Culture",
+        "use": "Knowing about a culture's customs, folktales, and taboos"
+      },
+      {
+        "name": "History",
+        "use": "Knowing about significant past events"
+      },
+      {
+        "name": "Magic",
+        "use": "Knowing about magical places, spells, rituals, items, and phenomena"
+      },
+      {
+        "name": "Monsters",
+        "use": "Knowing monster ecology, strengths, and weaknesses"
+      },
+      {
+        "name": "Nature",
+        "use": "Knowing about natural flora, fauna, and weather"
+      },
+      {
+        "name": "Psionics",
+        "use": "Knowing about psionic places, spells, rituals, items, and phenomena"
+      },
+      {
+        "name": "Religion",
+        "use": "Knowing about religious mythology, practices, and rituals"
+      },
+      {
+        "name": "Rumors",
+        "use": "Knowing gossip, legends, and uncertain truths"
+      },
+      {
+        "name": "Society",
+        "use": "Knowing noble etiquette and the leadership and power dynamics of noble families"
+      },
+      {
+        "name": "Strategy",
+        "use": "Knowing about battle tactics and logistics"
+      },
+      {
+        "name": "Timescape",
+        "use": "Knowing about the many worlds of the timescape"
+      }
+    ]
+  }
+]

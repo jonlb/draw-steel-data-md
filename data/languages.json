@@ -1,0 +1,430 @@
+[
+  {
+    "table_id": "typical-ancestry-cultures",
+    "table_name": "Typical Ancestry Cultures Table",
+    "description": "Archetypical culture aspects for heroes who grew up surrounded mostly by other members of their ancestry.",
+    "type": "culture_reference",
+    "entries": [
+      {
+        "ancestry": "Devil",
+        "language": "Anjali",
+        "environment": "Urban",
+        "organization": "Bureaucratic",
+        "upbringing": "Academic"
+      },
+      {
+        "ancestry": "Dragon knight",
+        "language": "Vastariax",
+        "environment": "Secluded",
+        "organization": "Bureaucratic",
+        "upbringing": "Martial"
+      },
+      {
+        "ancestry": "Dwarf",
+        "language": "Zaliac",
+        "environment": "Secluded",
+        "organization": "Bureaucratic",
+        "upbringing": "Creative"
+      },
+      {
+        "ancestry": "Wode elf",
+        "language": "Yllyric",
+        "environment": "Wilderness",
+        "organization": "Bureaucratic",
+        "upbringing": "Martial"
+      },
+      {
+        "ancestry": "High elf",
+        "language": "Hyrallic",
+        "environment": "Secluded",
+        "organization": "Bureaucratic",
+        "upbringing": "Martial"
+      },
+      {
+        "ancestry": "Hakaan",
+        "language": "Vhoric",
+        "environment": "Rural",
+        "organization": "Communal",
+        "upbringing": "Labor"
+      },
+      {
+        "ancestry": "Human",
+        "language": "Vaslorian",
+        "environment": "Urban",
+        "organization": "Communal",
+        "upbringing": "Labor"
+      },
+      {
+        "ancestry": "Memonek",
+        "language": "Axiomatic",
+        "environment": "Nomadic",
+        "organization": "Communal",
+        "upbringing": "Academic"
+      },
+      {
+        "ancestry": "Orc",
+        "language": "Kalliak",
+        "environment": "Wilderness",
+        "organization": "Communal",
+        "upbringing": "Creative"
+      },
+      {
+        "ancestry": "Polder",
+        "language": "Khoursirian",
+        "environment": "Urban",
+        "organization": "Communal",
+        "upbringing": "Creative"
+      },
+      {
+        "ancestry": "Time raider",
+        "language": "Voll",
+        "environment": "Nomadic",
+        "organization": "Communal",
+        "upbringing": "Martial"
+      }
+    ]
+  },
+  {
+    "table_id": "archetypical-cultures",
+    "table_name": "Archetypical Cultures Table",
+    "description": "Culture aspects based on cultural archetypes such as noble houses or pirate crews.",
+    "type": "culture_reference",
+    "entries": [
+      {
+        "community": "Artisan guild",
+        "environment": "Urban",
+        "organization": "Bureaucratic",
+        "upbringing": "Creative"
+      },
+      {
+        "community": "Borderland homestead",
+        "environment": "Wilderness",
+        "organization": "Communal",
+        "upbringing": "Labor"
+      },
+      {
+        "community": "College conclave",
+        "environment": "Urban",
+        "organization": "Bureaucratic",
+        "upbringing": "Academic"
+      },
+      {
+        "community": "Criminal gang",
+        "environment": "Urban",
+        "organization": "Communal",
+        "upbringing": "Lawless"
+      },
+      {
+        "community": "Farming village",
+        "environment": "Rural",
+        "organization": "Bureaucratic",
+        "upbringing": "Labor"
+      },
+      {
+        "community": "Herding community",
+        "environment": "Nomadic",
+        "organization": "Communal",
+        "upbringing": "Labor"
+      },
+      {
+        "community": "Knightly order",
+        "environment": "Secluded",
+        "organization": "Bureaucratic",
+        "upbringing": "Martial"
+      },
+      {
+        "community": "Laborer neighborhood",
+        "environment": "Urban",
+        "organization": "Communal",
+        "upbringing": "Labor"
+      },
+      {
+        "community": "Mercenary band",
+        "environment": "Nomadic",
+        "organization": "Bureaucratic",
+        "upbringing": "Martial"
+      },
+      {
+        "community": "Merchant caravan",
+        "environment": "Nomadic",
+        "organization": "Bureaucratic",
+        "upbringing": "Creative"
+      },
+      {
+        "community": "Monastic order",
+        "environment": "Secluded",
+        "organization": "Bureaucratic",
+        "upbringing": "Academic"
+      },
+      {
+        "community": "Noble house",
+        "environment": "Urban",
+        "organization": "Bureaucratic",
+        "upbringing": "Noble"
+      },
+      {
+        "community": "Outlaw band",
+        "environment": "Wilderness",
+        "organization": "Communal",
+        "upbringing": "Lawless"
+      },
+      {
+        "community": "Pirate crew",
+        "environment": "Nomadic",
+        "organization": "Communal",
+        "upbringing": "Lawless"
+      },
+      {
+        "community": "Telepathic hive",
+        "environment": "Secluded",
+        "organization": "Communal",
+        "upbringing": "Creative"
+      },
+      {
+        "community": "Traveling entertainers",
+        "environment": "Nomadic",
+        "organization": "Communal",
+        "upbringing": "Creative"
+      }
+    ]
+  },
+  {
+    "table_id": "vaslorian-human-languages",
+    "table_name": "Vaslorian Human Languages Table",
+    "description": "Dominant languages in Vaslorian human-centric territories by region.",
+    "type": "language_reference",
+    "entries": [
+      {
+        "region": "The Gol",
+        "language": "Uvalic"
+      },
+      {
+        "region": "Higara",
+        "language": "Higaran"
+      },
+      {
+        "region": "Ix",
+        "language": "Oaxuatl"
+      },
+      {
+        "region": "Khemhara",
+        "language": "Khemharic"
+      },
+      {
+        "region": "Khoursir",
+        "language": "Khoursirian"
+      },
+      {
+        "region": "Phaedros",
+        "language": "Phaedran"
+      },
+      {
+        "region": "Rioja",
+        "language": "Riojan"
+      },
+      {
+        "region": "Vanigar",
+        "language": "Vaniric"
+      },
+      {
+        "region": "Vasloria",
+        "language": "Vaslorian"
+      }
+    ]
+  },
+  {
+    "table_id": "languages-by-ancestry",
+    "table_name": "Languages by Ancestry Table",
+    "description": "The most common languages actively spoken and signed by significant populations of people in Orden.",
+    "type": "language_reference",
+    "entries": [
+      {
+        "language": "Anjali",
+        "ancestry": "Devils, hobgoblins",
+        "notes": "Language of contract law"
+      },
+      {
+        "language": "Axiomatic",
+        "ancestry": "Memonek",
+        "notes": "Native language of Axiom, and the common language of the timescape by trade"
+      },
+      {
+        "language": "Caelian",
+        "ancestry": "Orden denizens",
+        "notes": "Common language of Orden"
+      },
+      {
+        "language": "Filliaric",
+        "ancestry": "Angulotls",
+        "notes": ""
+      },
+      {
+        "language": "The First<br/> Language",
+        "ancestry": "Elder dragons",
+        "notes": "Language of magic"
+      },
+      {
+        "language": "Hyrallic",
+        "ancestry": "High elves",
+        "notes": "Language of interspecies diplomacy"
+      },
+      {
+        "language": "Illyvric",
+        "ancestry": "Shadow elves",
+        "notes": ""
+      },
+      {
+        "language": "Kalliak",
+        "ancestry": "Orcs",
+        "notes": "Offshoot of Zaliac"
+      },
+      {
+        "language": "Kethaic",
+        "ancestry": "Kobolds",
+        "notes": "Patois of Vastariax and Caelian"
+      },
+      {
+        "language": "Khelt",
+        "ancestry": "Bugbears, fey",
+        "notes": "Offshoot of Kheltivari"
+      },
+      {
+        "language": "Khoursirian",
+        "ancestry": "Polder, humans",
+        "notes": "Distant offshoot of Khamish"
+      },
+      {
+        "language": "High Kuric",
+        "ancestry": "Bredbeddles, giants,<br/> ogres, trolls",
+        "notes": ""
+      },
+      {
+        "language": "Low Kuric",
+        "ancestry": "Elementals",
+        "notes": ""
+      },
+      {
+        "language": "Mindspeech",
+        "ancestry": "Voiceless talkers",
+        "notes": "A symbolic language shared among native telepaths"
+      },
+      {
+        "language": "Proto-Ctholl",
+        "ancestry": "Lower demons",
+        "notes": "Incomplete precursor of Tholl"
+      },
+      {
+        "language": "Szetch",
+        "ancestry": "Goblins, radenwights",
+        "notes": ""
+      },
+      {
+        "language": "Tholl",
+        "ancestry": "Higher demons, gnolls",
+        "notes": ""
+      },
+      {
+        "language": "Urollialic",
+        "ancestry": "Olothec",
+        "notes": ""
+      },
+      {
+        "language": "Variac",
+        "ancestry": "Olothec, trolls,<br/> voiceless talkers",
+        "notes": "Common language of the World Below"
+      },
+      {
+        "language": "Vastariax",
+        "ancestry": "Dragons, dragon<br/> knights",
+        "notes": ""
+      },
+      {
+        "language": "Vhoric",
+        "ancestry": "Hakaan",
+        "notes": "Offshoot of the stone giant dialect of High Kuric"
+      },
+      {
+        "language": "Voll",
+        "ancestry": "Time raiders",
+        "notes": ""
+      },
+      {
+        "language": "Yllyric",
+        "ancestry": "Wode elves",
+        "notes": "Language of druids"
+      },
+      {
+        "language": "Za'hariax",
+        "ancestry": "Overminds",
+        "notes": ""
+      },
+      {
+        "language": "Zaliac",
+        "ancestry": "Dwarves",
+        "notes": "Language of engineering"
+      }
+    ]
+  },
+  {
+    "table_id": "dead-languages",
+    "table_name": "Dead Languages Table",
+    "description": "Ancient languages of Orden that are no longer actively spoken, and the modern languages related to them.",
+    "type": "language_reference",
+    "entries": [
+      {
+        "language": "Ananjali",
+        "ancestry": "Old hobgoblin",
+        "related_languages": "Anjali",
+        "common_topics": "Zodiakol, the bloodmetal"
+      },
+      {
+        "language": "High Rhyvian",
+        "ancestry": "Sun elf",
+        "related_languages": "Hyrallic, Yllyric",
+        "common_topics": "Liannar, the sunmetal"
+      },
+      {
+        "language": "Khamish",
+        "ancestry": "Beast lord",
+        "related_languages": "Khoursirian",
+        "common_topics": "Beast magic"
+      },
+      {
+        "language": "Kheltivari",
+        "ancestry": "Old fae",
+        "related_languages": "Yllyric, Khelt",
+        "common_topics": "Using a wode to travel through time"
+      },
+      {
+        "language": "Low Rhyvian",
+        "ancestry": "Sky elf",
+        "related_languages": "Hyrallic",
+        "common_topics": "Flying castles"
+      },
+      {
+        "language": "Old Variac",
+        "ancestry": "Olothec, voiceless talkers",
+        "related_languages": "Variac",
+        "common_topics": "Kollar, the sinmetal"
+      },
+      {
+        "language": "Phorialtic",
+        "ancestry": "Old elemental",
+        "related_languages": "Low and High Kuric",
+        "common_topics": "Moving between manifolds"
+      },
+      {
+        "language": "Rallarian",
+        "ancestry": "Steel dwarf",
+        "related_languages": "Zaliac",
+        "common_topics": "Valiar, the truemetal"
+      },
+      {
+        "language": "Ullorvic",
+        "ancestry": "Star elf",
+        "related_languages": "Hyrallic, Yllyric",
+        "common_topics": "Rovion, the starmetal"
+      }
+    ]
+  }
+]

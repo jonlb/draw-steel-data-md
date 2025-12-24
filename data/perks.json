@@ -1,0 +1,447 @@
+[
+  {
+    "item_id": "area-of-expertise",
+    "item_name": "Area of Expertise",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/crafting",
+    "perk_group": "crafting",
+    "content": "#### Area of Expertise\n\nChoose one skill you already have from the crafting skill group. Whenever you obtain a tier 1 outcome on an easy or medium test using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction."
+  },
+  {
+    "item_id": "expert-artisan",
+    "item_name": "Expert Artisan",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/crafting",
+    "perk_group": "crafting",
+    "content": "#### Expert Artisan\n\nWhenever you make a test as part of a crafting or research project that uses a skill you already have from the crafting skill group, you can make the power roll twice and use either roll."
+  },
+  {
+    "item_id": "handy",
+    "item_name": "Handy",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/crafting",
+    "perk_group": "crafting",
+    "content": "#### Handy\n\nWhenever you make a test to craft something and don't have a skill that applies to the test, you gain a +1 bonus to the power roll."
+  },
+  {
+    "item_id": "improvisation-creation",
+    "item_name": "Improvisation Creation",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/crafting",
+    "perk_group": "crafting",
+    "content": "#### Improvisation Creation\n\nWithout needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour."
+  },
+  {
+    "item_id": "inspired-artisan",
+    "item_name": "Inspired Artisan",
+    "item_index": "06",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/crafting",
+    "perk_group": "crafting",
+    "content": "#### Inspired Artisan\n\nWhen you make a project roll using a skill from the crafting skill group, you can spend a hero token to make another project roll for the same project as part of the same respite activity. You can't use this perk more than once per respite."
+  },
+  {
+    "item_id": "traveling-artisan",
+    "item_name": "Traveling Artisan",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/crafting",
+    "perk_group": "crafting",
+    "content": "#### Traveling Artisan\n\nOn any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project."
+  },
+  {
+    "item_id": "brawny",
+    "item_name": "Brawny",
+    "item_index": "10",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Brawny\n\nWhenever you fail a Might test, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test."
+  },
+  {
+    "item_id": "camouflage-hunter",
+    "item_name": "Camouflage Hunter",
+    "item_index": "07",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Camouflage Hunter\n\nWhenever you are in wilderness, once you are hidden from a creature, you don't need cover or concealment to stay hidden from them."
+  },
+  {
+    "item_id": "danger-sense",
+    "item_name": "Danger Sense",
+    "item_index": "08",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Danger Sense\n\nWhenever you are in a natural environment (but not in a settlement in that environment), you gain an edge on tests made using the Alertness skill, and you can't be surprised. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don't know exactly what it will entail (an earthquake, a wildfire, and so forth)."
+  },
+  {
+    "item_id": "friend-catapult",
+    "item_name": "Friend Catapult",
+    "item_index": "09",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Friend Catapult\n\nAs a maneuver, you grab a willing adjacent ally or object of your size or smaller, then vertical push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories."
+  },
+  {
+    "item_id": "ive-got-you",
+    "item_name": "I've Got You!",
+    "item_index": "06",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### I've Got You!\n\nWhenever a willing ally falls and would land on you or adjacent to you, you can safely catch them as a free triggered action. Neither of you takes damage from the ally's fall."
+  },
+  {
+    "item_id": "monster-whisperer",
+    "item_name": "Monster Whisperer",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Monster Whisperer\n\nYou can use the Handle Animals skill to interact with nonsapient creatures who are not animals."
+  },
+  {
+    "item_id": "put-your-back-into-it",
+    "item_name": "Put Your Back Into It!",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Put Your Back Into It!\n\nDuring montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a bane. Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome."
+  },
+  {
+    "item_id": "team-leader",
+    "item_name": "Team Leader",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Team Leader\n\nAt the start of a group test or montage test, you can spend a hero token. If you do, all participants make tests as if they also had any skill you have from the exploration group."
+  },
+  {
+    "item_id": "teamwork",
+    "item_name": "Teamwork",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Teamwork\n\nWhen you take your first turn during any montage test, you can both make a test and assist another hero's test."
+  },
+  {
+    "item_id": "wood-wise",
+    "item_name": "Wood Wise",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/exploration",
+    "perk_group": "exploration",
+    "content": "#### Wood Wise\n\nWhen you make a test using a skill from the exploration skill group and at least one of the d10s rolled is a 1, you can reroll one d10. You can use this perk only once per test."
+  },
+  {
+    "item_id": "charming-liar",
+    "item_name": "Charming Liar",
+    "item_index": "06",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Charming Liar\n\nIf you fail a test using the Lie skill, you don't suffer any consequences associated with the failure. Additionally, during a negotiation, you can be caught in one lie without negative consequences. When you use either benefit of this perk, you can't use this perk again until you earn 1 or more Victories."
+  },
+  {
+    "item_id": "dazzler",
+    "item_name": "Dazzler",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Dazzler\n\nWhenever a creature watches you sing, dance, or perform a role (as an actor, not just in disguise) for 1 uninterrupted minute or more, you gain an edge on any test made to influence that creature for 1 hour after the performance ends."
+  },
+  {
+    "item_id": "engrossing-monologue",
+    "item_name": "Engrossing Monologue",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Engrossing Monologue\n\nWhenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an edge on tests made to avoid being noticed by those creatures."
+  },
+  {
+    "item_id": "harmonizer",
+    "item_name": "Harmonizer",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Harmonizer\n\nYou can make a Presence test using the Music skill to influence creatures who don't have emotions or can't understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an edge on their test."
+  },
+  {
+    "item_id": "lie-detector",
+    "item_name": "Lie Detector",
+    "item_index": "08",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Lie Detector\n\nIn response to another creature communicating information to you, you can spend a hero token to determine whether that information contained any knowing lies. If so, you know what the lies are, but not what the truth is."
+  },
+  {
+    "item_id": "open-book",
+    "item_name": "Open Book",
+    "item_index": "10",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Open Book\n\nWhenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly."
+  },
+  {
+    "item_id": "pardon-my-friend",
+    "item_name": "Pardon My Friend",
+    "item_index": "07",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Pardon My Friend\n\nWhen an ally within 5 squares fails a Presence test, you can step in and make a Presence test that takes a bane, with your roll replacing the ally's roll. This perk can be used only once per test, even if more than one character has it."
+  },
+  {
+    "item_id": "power-player",
+    "item_name": "Power Player",
+    "item_index": "09",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Power Player\n\nWhenever you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might instead of any other characteristic the test calls for."
+  },
+  {
+    "item_id": "so-tell-me",
+    "item_name": "So Tell Me...",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### So Tell Me...\n\nWhenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger."
+  },
+  {
+    "item_id": "spot-the-tell",
+    "item_name": "Spot the Tell",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/interpersonal",
+    "perk_group": "interpersonal",
+    "content": "#### Spot the Tell\n\nWhenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an edge."
+  },
+  {
+    "item_id": "criminal-contacts",
+    "item_name": "Criminal Contacts",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/intrigue",
+    "perk_group": "intrigue",
+    "content": "#### Criminal Contacts\n\nYou have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth."
+  },
+  {
+    "item_id": "forgettable-face",
+    "item_name": "Forgettable Face",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/intrigue",
+    "perk_group": "intrigue",
+    "content": "#### Forgettable Face\n\nIf you spend 10 minutes or less interacting with a creature who hasn't met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any test that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the test."
+  },
+  {
+    "item_id": "gum-up-the-works",
+    "item_name": "Gum Up the Works",
+    "item_index": "06",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/intrigue",
+    "perk_group": "intrigue",
+    "content": "#### Gum Up the Works\n\nWhenever a mundane trap activates within 3 squares, you can use a triggered action to move up to 3 squares toward it. If this movement brings you adjacent to any of the trap's mechanisms, you can jam the trap, preventing it from activating. As long as you stay adjacent to the mechanism, the trap can't go off unless an attempt to disarm it fails."
+  },
+  {
+    "item_id": "lucky-dog",
+    "item_name": "Lucky Dog",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/intrigue",
+    "perk_group": "intrigue",
+    "content": "#### Lucky Dog\n\nWhenever you fail a test using any skill from the intrigue skill group, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test."
+  },
+  {
+    "item_id": "master-of-disguise",
+    "item_name": "Master of Disguise",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/intrigue",
+    "perk_group": "intrigue",
+    "content": "#### Master of Disguise\n\nYou can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver."
+  },
+  {
+    "item_id": "slipped-lead",
+    "item_name": "Slipped Lead",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/intrigue",
+    "perk_group": "intrigue",
+    "content": "#### Slipped Lead\n\nYou gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it's not immediately obvious when you've escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth)."
+  },
+  {
+    "item_id": "but-i-know-who-does",
+    "item_name": "But I Know Who Does",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### But I Know Who Does\n\nWhenever you fail a test to recall lore using a skill from the lore skill group, you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby city, somewhere deep in a dungeon, or any other location of the Director's determination. The Director can decide that certain lore can't be revealed this way."
+  },
+  {
+    "item_id": "eidetic-memory",
+    "item_name": "Eidetic Memory",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### Eidetic Memory\n\nYour mind is an encyclopedia, though not always an easy one to organize. When you finish a respite, choose one skill from the lore skill group that you don't have. You have that skill until you finish your next respite. Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time."
+  },
+  {
+    "item_id": "expert-sage",
+    "item_name": "Expert Sage",
+    "item_index": "06",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### Expert Sage\n\nWhenever you make a test as part of a crafting or research project using a skill from the lore skill group, you can make the power roll twice and use either roll."
+  },
+  {
+    "item_id": "ive-read-about-this-place",
+    "item_name": "I've Read About This Place",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### I've Read About This Place\n\nEach time you enter a settlement you've never been to before, you can ask the Director one of the following questions:\n\n- Who is the most influential public figure in this settlement?\n- Who in this settlement would be the friendliest to us right now?\n- What does this settlement need most from outsiders?\n\nIf the Director doesn't have an answer to the question you ask, or doesn't want to answer, you can instead ask a different question."
+  },
+  {
+    "item_id": "linguist",
+    "item_name": "Linguist",
+    "item_index": "08",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### Linguist\n\nYou automatically learn two new languages, as long as you have regularly heard those languages spoken or seen them written before. Additionally, if you spend 7 days or more in a place where you regularly hear or read a language you don't know, you can pick up enough of that language to hold a conversation or understand basic written information. Having picked up a language this way, you can subsequently learn it using the Learn New Language research project at half the usual project goal cost (see Chapter 12: Downtime Projects)."
+  },
+  {
+    "item_id": "polymath",
+    "item_name": "Polymath",
+    "item_index": "07",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### Polymath\n\nWhenever you make a test to recall lore and don't have a skill that applies to the test, you gain a +1 bonus to the power roll."
+  },
+  {
+    "item_id": "specialist",
+    "item_name": "Specialist",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### Specialist\n\nYou are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your specialist knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk."
+  },
+  {
+    "item_id": "traveling-sage",
+    "item_name": "Traveling Sage",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/lore",
+    "perk_group": "lore",
+    "content": "#### Traveling Sage\n\nOn any day when you don't take a respite, you can spend 1 uninterrupted hour working on a research project using a skill you have from the lore skill group. If you do so, you gain 1d10 project points toward that project."
+  },
+  {
+    "item_id": "arcane-trick",
+    "item_name": "Arcane Trick",
+    "item_index": "02",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/supernatural",
+    "perk_group": "supernatural",
+    "content": "#### Arcane Trick\n\nYou have the following ability."
+  },
+  {
+    "item_id": "creature-sense",
+    "item_name": "Creature Sense",
+    "item_index": "03",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/supernatural",
+    "perk_group": "supernatural",
+    "content": "#### Creature Sense\n\nAs a maneuver, choose a creature within 10 squares. If that creature is your level or lower, you learn the keywords in their stat block (Demon, Humanoid, Undead, and so forth)."
+  },
+  {
+    "item_id": "familiar",
+    "item_name": "Familiar",
+    "item_index": "07",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/supernatural",
+    "perk_group": "supernatural",
+    "content": "#### Familiar\n\nA supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.\n\nThe spirit uses the familiar stat block.\n\nThe familiar can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.\n\nIf your familiar is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.\n\n###### Familiar Statblock\n\n**Familiar**\n\n|       Familiar        |          -          |            Level -             |            -            |          EV -          |\n| :-------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |\n|   **1T**<br/> Size    |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |\n| **-**<br/> Immunities | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |\n|   **-3**<br/> Might   | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |",
+    "stat_block": {
+      "name": "Familiar",
+      "full_content": "**Familiar**\n\n|       Familiar        |          -          |            Level -             |            -            |          EV -          |\n| :-------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |\n|   **1T**<br/> Size    |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |\n| **-**<br/> Immunities | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |\n|   **-3**<br/> Might   | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |\n\n<!-- -->\n> **Telepathic**\n>\n> While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.",
+      "stat_table": "|       Familiar        |          -          |            Level -             |            -            |          EV -          |\n| :-------------------: | :-----------------: | :----------------------------: | :---------------------: | :--------------------: |\n|   **1T**<br/> Size    |  **5**<br/> Speed   | **2x your level**<br/> Stamina |  **0**<br/> Stability   | **-**<br/> Free Strike |\n| **-**<br/> Immunities | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |\n|   **-3**<br/> Might   | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |",
+      "stats": {
+        "ancestry": "Familiar",
+        "level": "Level -",
+        "ev": "-",
+        "size": "1T",
+        "speed": 5,
+        "stamina": "2x your level",
+        "stability": 0,
+        "characteristics": {
+          "might": -3,
+          "agility": 2,
+          "reason": 0,
+          "intuition": 0,
+          "presence": 1
+        }
+      },
+      "traits": null
+    }
+  },
+  {
+    "item_id": "invisible-force",
+    "item_name": "Invisible Force",
+    "item_index": "05",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/supernatural",
+    "perk_group": "supernatural",
+    "content": "#### Invisible Force\n\nYou have the following ability."
+  },
+  {
+    "item_id": "psychic-whisper",
+    "item_name": "Psychic Whisper",
+    "item_index": "06",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/supernatural",
+    "perk_group": "supernatural",
+    "content": "#### Psychic Whisper\n\nYou have the following ability."
+  },
+  {
+    "item_id": "ritualist",
+    "item_name": "Ritualist",
+    "item_index": "04",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/supernatural",
+    "perk_group": "supernatural",
+    "content": "#### Ritualist\n\nYou can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double edge on the next test they make within the next minute. A target can't use this benefit on an activity that takes longer than 1 minute."
+  },
+  {
+    "item_id": "thingspeaker",
+    "item_name": "Thingspeaker",
+    "item_index": "01",
+    "source": "mcdm.heroes.v1",
+    "type": "perk/supernatural",
+    "perk_group": "supernatural",
+    "content": "#### Thingspeaker\n\nWhen you hold an object in your hand for 1 uninterrupted minute, you can sense whether it bears emotional resonance. Objects with emotional resonance could include treasured gifts, murder weapons, or personal keepsakes. If the Director determines that the object bears emotional resonance, you learn the most dominant emotion associated with the object, then receive a vision that answers one of the following questions:\n\n- What was the name of the person whose emotion is imprinted on this object?\n- Why does this emotion linger on the object?\n- How long has it been since the object was held by the person whose emotion lingers on it?\n\nAfter asking one question, you can choose to delve deeper by asking one additional question from the list, but you are then overcome with emotions that do not belong to you. You take a bane on Intuition and Presence tests until you finish a respite, and you can't use this perk again while you suffer this bane."
+  }
+]
